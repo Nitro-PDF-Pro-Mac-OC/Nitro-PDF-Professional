@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://catherinbor.github.io/.github/nitro">  
+<a href="https://tanahavlic8094.github.io/.github/nitro">  
 <img src="https://img.shields.io/badge/GET_Nitro_PDF_Pro-darkred?style=for-the-badge&logo=apple" alt="GET Nitro PDF Pro">  
 </a>  
 </div>  
